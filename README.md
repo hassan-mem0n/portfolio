@@ -1,4 +1,5 @@
-# Mr.Bande — Full Stack Developer Portfolio
+# Mr hassan raza — Full Stack Developer Portfolio
+![mr hassan raza portfolio img](src/assets/portfolio-images/profile.png)
 
 React + Tailwind CSS + Framer Motion + GSAP recreation of the portfolio design.
 
